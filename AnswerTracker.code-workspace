@@ -1,0 +1,16 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "C_Cpp.default.cppStandard": "c++17",
+        "C_Cpp.default.compilerPath": "C:/mingw64/bin/g++.exe",
+        "C_Cpp.default.intelliSenseMode": "windows-gcc-x64",
+        "files.associations": {
+            "*.cpp": "cpp",
+            "*.h": "cpp"
+        }
+    }
+}
